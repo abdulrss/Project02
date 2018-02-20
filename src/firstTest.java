@@ -33,6 +33,7 @@ public class firstTest {
 		//driver.findElement(By.name("btnK")).click();
 		
 		System.out.print(driver.getTitle() + " is the title");
+		//close
 		driver.close();
 	}
 
